@@ -52,6 +52,7 @@ session_start();
 	<title>Login</title>
 </head>
 <body>
+<h1>Let's learn PHP<h1>
 
 	<style type="text/css">
 	
