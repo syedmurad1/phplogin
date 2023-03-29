@@ -37,7 +37,7 @@ session_start(); #
 	<title>Signup</title>
 </head>
 <body>
-
+<h1>Let's learn PHP<h1>
 	<style type="text/css">
 	
 	#text{

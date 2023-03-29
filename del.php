@@ -10,7 +10,7 @@ include("connection.php");
 <body>
 
 <a href="logout.php">Logout</a>
-<h1>This is  first page</h1>
+<h1>This Syed's  first page</h1>
 
 <br>
 </body>
