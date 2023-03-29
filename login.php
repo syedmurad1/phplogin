@@ -88,8 +88,9 @@ session_start();
 		
 		<form method="post">
 			<div style="font-size: 20px;margin: 10px;color: white;">Login</div>
-
+			<h4>Username </h4>
 			<input id="text" type="text" name="user_name"><br><br>
+			<h4>Password </h4>
 			<input id="text" type="pass" name="pass"><br><br>
 
 			<input id="button" type="submit" value="Login"><br><br>
