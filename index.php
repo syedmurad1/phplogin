@@ -1,3 +1,4 @@
+<!-- index -->
 <?php 
 session_start(); // can be accessed from any page
 
